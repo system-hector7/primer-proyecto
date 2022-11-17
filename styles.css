@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./pexels-mike-b-192499\ \(1\).jpg);
+    
+}
+
+
+nav a{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+
+
+nav:hover{
+background-color:rgb(254, 254, 254);
+color: rgb(0, 0, 0);
+
+}
+
+
+.clase1 {
+    text-align: center;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid rgb(14, 14, 14);
+    color: rgb(0, 0, 0);
+}
+
+
+.carro {
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.modelo {
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.color {
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main{
+   text-align: center;
+   display: block;
+   border: 3px solid white;
+
+}
+
+.boton1{
+    background-color: wheat;
+    width: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.boton2{
+    background-color: wheat;
+    width: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+footer{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+ 
+  }
